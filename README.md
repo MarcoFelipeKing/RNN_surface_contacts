@@ -1,2 +1,3 @@
-# RNN_surface_contacts
-YAB and St James' data
+# Recurrent Neural Networks for Contact Data
+
+# RNN
